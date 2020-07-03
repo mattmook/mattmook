@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Matt Dolan has been developing with Android since the dark days of v1.6. When he's not eating donuts he's passionate about bringing developers and designers together to #buildbetterapps
+
 <!--
 **mattmook/mattmook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
